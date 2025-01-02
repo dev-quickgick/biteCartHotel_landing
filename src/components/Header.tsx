@@ -13,7 +13,7 @@ export default function Header() {
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <div className="flex items-center justify-center">
           <Image
-            src="/logo.png"
+            src="/BiteCart-by-QG.png"
             alt="BiteCart Logo"
             className="w-28"
             width={100}
